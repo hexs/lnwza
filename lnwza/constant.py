@@ -9,4 +9,3 @@ ENDC = '\033[0m'
 BOLD = '\033[1m'
 ITALICIZED = '\033[3m'
 UNDERLINE = '\033[4m'
-
