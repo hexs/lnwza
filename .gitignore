@@ -2,3 +2,6 @@
 __pycache__/
 */__pycache__/
 lnwza.egg-info/
+.venv/
+build/
+dist/

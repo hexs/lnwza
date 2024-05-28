@@ -1,4 +1,4 @@
-from constant import *
+from .constant import *
 from same_print import sprint
 
 def print(*args, sep=' ', end='\n', file=None, bold=False, italicized=False):
