@@ -4,4 +4,3 @@ __pycache__/
 lnwza.egg-info/
 .venv/
 build/
-dist/

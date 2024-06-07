@@ -19,7 +19,10 @@ setup(
     install_requires=[],
     entry_points={
         'console_scripts': [
-            'lnwza=lnwza.main:main',
+            'pip=lnwza.pipp:pipp',
         ],
     },
 )
+
+# python setup.py sdist bdist_wheel
+# twine upload dist/*
