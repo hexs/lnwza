@@ -8,7 +8,7 @@ with open(join(working_dir, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='lnwza',
-    version='0.0.19',
+    version='0.0.20',
     license='MIT',
     description='lnwza by hexs',
     long_description=long_description,
